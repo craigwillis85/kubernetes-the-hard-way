@@ -32,19 +32,6 @@ The resulting cluster will be missing the following items:
 * [Logging](http://kubernetes.io/docs/user-guide/logging)
 * [No Cloud Provider Integration](http://kubernetes.io/docs/getting-started-guides/)
 
-### Assumptions
-
-GCP
-
-* The us-central1 region will be used
-
-```
-gcloud config set compute/region us-central1
-```
-
-AWS
-
-* The us-west-2 region will be used
 
 ## Platforms
 
