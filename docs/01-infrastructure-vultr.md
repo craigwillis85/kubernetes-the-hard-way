@@ -1,6 +1,6 @@
-# Cloud Infrastructure Provisioning - Amazon Web Services
+# Cloud Infrastructure Provisioning - Vultr
 
-This lab will walk you through provisioning the compute instances required for running a H/A Kubernetes cluster. A total of 6 virtual machines will be created.
+This lab will walk you through provisioning the compute instances required for running a H/A Kubernetes cluster. A total of 4 virtual machines will be created.
 
 The guide assumes you'll be creating resources in the `us-west-2` region.
 
